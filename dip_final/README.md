@@ -1,7 +1,9 @@
 # dip_final implementation
 
-## fast_neural_style Usage
+
 我們有兩個資料夾分別對應兩種論文時做的方法.
+
+## fast_neural_style Usage
 
 Models for the examples shown below can be downloaded from [here](https://www.dropbox.com/s/lrvwfehqdcxoza8/saved_models.zip?dl=0) or by running the script ``download_saved_models.py``.
 
